@@ -17,3 +17,4 @@ example
 - white tea
 - coffee
 - suntory coffee latte
+- milk
